@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485688374820",
+    "firebase_url": "https://test-database-ec7fc.firebaseio.com",
+    "project_id": "test-database-ec7fc",
+    "storage_bucket": "test-database-ec7fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485688374820:android:3299c88704fcaf92494ab1",
+        "android_client_info": {
+          "package_name": "com.solvabit.mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485688374820-jvia5l712qo934vhnhbdm9ur592ou249.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solvabit.mate",
+            "certificate_hash": "ec61d4defe3fd4c9c06f811404d49e8b0eaabf65"
+          }
+        },
+        {
+          "client_id": "485688374820-733v7af90g79afrh2mpk5f0qhul7e2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwRLX9miL9NGTz-ClNuq7-8wBcKOZbp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485688374820-733v7af90g79afrh2mpk5f0qhul7e2v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
